@@ -1,0 +1,14 @@
+name = "VoxelMap-Updated"
+filename = "voxelmap-1.20.1-1.12.13.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/wkzK5379/versions/uDfYW2uw/voxelmap-1.20.1-1.12.13.jar"
+hash-format = "sha512"
+hash = "ae30de9de02b22d56ebd8479976e4cf987465156669c416755f8cb345f14f4241ea2596264caa98e8a09bca1091462433255ef1867b8f09534b595037da20562"
+
+[update]
+[update.modrinth]
+mod-id = "wkzK5379"
+version = "uDfYW2uw"

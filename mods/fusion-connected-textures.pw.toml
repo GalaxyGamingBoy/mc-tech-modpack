@@ -1,0 +1,14 @@
+name = "Fusion (Connected Textures)"
+filename = "fusion-1.0.5a-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/p19vrgc2/versions/tIuA4CRi/fusion-1.0.5a-fabric-mc1.20.jar"
+hash-format = "sha512"
+hash = "a285d496f3f1f92b7f28a309c92a998c8db7bf9990b170175e269b7244bd2a4186b7b6bc91f8d8e2eab927eebfc53346731380141b3af9e14de11ff101385302"
+
+[update]
+[update.modrinth]
+mod-id = "p19vrgc2"
+version = "tIuA4CRi"

@@ -1,0 +1,14 @@
+name = "Ok Zoomer"
+filename = "ok_zoomer-5.0.0-beta.12+1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/fGpO4l2z/ok_zoomer-5.0.0-beta.12%2B1.20.jar"
+hash-format = "sha512"
+hash = "2ce721bb45d1a4e8e8b35fb4fa17a6faa6c6759c6c61fd5f1ea3f02db0e0a4466d04a84edd90291b4e6c2294ba1a784b53feee7760dcd221d3ae257afbe484b3"
+
+[update]
+[update.modrinth]
+mod-id = "aXf2OSFU"
+version = "fGpO4l2z"

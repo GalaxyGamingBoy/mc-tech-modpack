@@ -1,0 +1,13 @@
+name = "Quilt Tech"
+author = "Marios M"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4cfabaa93331b09309cecbc440e3bdb9ec128c04e4c2cb87c1a2161492708a25"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.2"
