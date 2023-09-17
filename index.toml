@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "logo.png"
+hash = "ecf80108b920c88db17fa70fa566f14084b90b7acef37d239c379aa7d5df0531"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "f358299c26fa08795bb193346701047058eced148e7326c48ea536347642bf5a"
 metafile = true
@@ -41,8 +45,18 @@ hash = "1222cc1247cd44c569c1658918c81d2318ba92f32f3b298ddccce3fb9e2c9de6"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "17f6b7ac6049e4bf8302cf1bee0c582e0f2d657f7669bf1c838d6bbc94310e66"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
@@ -61,8 +75,18 @@ hash = "71351bf7abca0a73fb571f826bd38ac603a687c981241878c1014f9859a942c5"
 metafile = true
 
 [[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "900f4444a5e6c07bc93184ee08a1eb25c2fb910a78db318b63a6739e249d8bb7"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "be50b012446da17d5b32cea37a24f96ec9237f337bd3e755f372482737bb24d2"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
 
 [[files]]
@@ -197,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9206d442de581d9c1f1828de11a22e931efc5d852f8c1e94b65ac7471e822599"
+hash = "7d29724ac05ef8982475b92f0e77adf4a4830c249f0e8c1515a19777fbf05f09"
 metafile = true
 
 [[files]]
@@ -256,6 +280,11 @@ hash = "e38e0677a61ea6a0ab727a2f5638188f5688649980a06a30aca918a97ee2c897"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "c3d33e0bad7b2919be78f80aad957542e78c081f11248d14a9e91ab5389a714f"
+metafile = true
+
+[[files]]
 file = "mods/voxelmap-updated.pw.toml"
 hash = "5742e2c98e04cdabf3a54ae6d2745651c8f5f9625b1a4b71664692f7427409f5"
 metafile = true
@@ -264,3 +293,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "8911f560ec99f9ffdc04425d49dd609d27844e0e6860234f0391bb08927983b7"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "637dba61888bc3bd7a18d53b3ac4054717cd512df667a0556ecb00b880f06f76"
